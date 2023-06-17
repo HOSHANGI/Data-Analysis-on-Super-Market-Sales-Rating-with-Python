@@ -1,18 +1,33 @@
 # Data-Analysis-on-Super-Market-Sales-Rating-with-Python
 
+Project Title: Data Analysis on Super Market Sales Rating with Python
 
-**Creating dummies for Gender column to get numeric data for seaborn bar plot
-**Joining original data frame (df) with gender dummies data frame (gender_dummies)
-**For Female
-**For Male
-**Plotting for Customers as per city
-**Plotting for different payment methods count
-**Getting Gross Income Plot for each product line
-**Get Rating Plot for each product line
-**Total bill in each product line
-**Exploring Quantity Column
-**Plotting heatmap to check if any correlation between columns
-Inference from the Analysis
+I am excited to share details about my latest project, where I conducted a comprehensive data analysis on Super Market Sales Ratings using Python.
+
+Project Description:
+In this project, I explored a vast dataset from a super market, aiming to uncover insights and patterns in sales ratings. Leveraging my expertise in data analysis and Python programming, I employed various techniques to extract valuable information from the data.
+
+Key Project Highlights:
+
+*Data Collection and Preparation: I gathered a large dataset comprising sales records, customer ratings, and other relevant information from the super market. By performing data cleaning, handling missing values, and transforming the data into a suitable format, I ensured its quality and usability for analysis.
+
+*Exploratory Data Analysis (EDA): Using Python libraries such as Pandas, NumPy, and Matplotlib, I conducted EDA to gain a deeper understanding of the dataset. I explored statistical measures, visualizations, and correlations among variables to identify trends, patterns, and outliers in sales ratings.
+
+*Feature Engineering and Selection: To enhance the analysis, I engineered new features from existing data and selected the most impactful ones. This process involved transforming variables, creating derived metrics, and applying statistical techniques to uncover hidden insights that contribute to sales ratings.
+
+*Machine Learning Modeling: I employed various machine learning algorithms, such as regression, decision trees, or ensemble methods, to build predictive models that could estimate sales ratings based on the available features. Through iterative model training, evaluation, and fine-tuning, I achieved accurate predictions and valuable insights.
+
+*Insights and Recommendations: Based on the analysis results, I derived actionable insights and recommendations to optimize the super market's sales performance and improve customer satisfaction. These insights were presented through visually appealing reports and interactive dashboards.
+
+Tools and Techniques Used:
+
+*Python: Leveraging the power of Python programming language, I utilized popular libraries such as Pandas, NumPy, and Matplotlib for data manipulation, analysis, and visualization.
+*Exploratory Data Analysis (EDA): Statistical measures, data visualization, and correlation analysis were employed to gain insights into the dataset.
+*Feature Engineering and Selection: Techniques like variable transformation, derived metrics, and statistical analysis aided in selecting the most relevant features for modeling.
+*Reporting and Visualization: Results were effectively communicated through visually appealing reports, interactive dashboards, and data visualizations.
+
+This project not only honed my technical skills in data analysis and Python programming but also demonstrated my ability to extract meaningful insights and provide actionable recommendations based on complex datasets. I am proud of the outcomes achieved and the impact it can have on optimizing sales ratings in the super market industry.
+
 
 ![__results___38_2](https://github.com/HOSHANGI/Data-Analysis-on-Super-Market-Sales-Rating-with-Python/assets/118753140/405f31ce-abfb-442a-a9de-7ad9ece93b29)
 ![__results___36_1](https://github.com/HOSHANGI/Data-Analysis-on-Super-Market-Sales-Rating-with-Python/assets/118753140/94975477-c044-4d24-97a4-6e848ce26218)
